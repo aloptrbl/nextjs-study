@@ -1,6 +1,6 @@
 # Next.js Study Materials
 
-A practice of next.js setup from https://nextjs.org/learn/
+A practice of next.js from https://nextjs.org/learn/
 
 ## Getting Started
 
